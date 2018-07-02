@@ -1,0 +1,12 @@
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+echo "Bourne Again Shell"
+
+#Plugins
+
+plugins=(
+  git
+)
+
+#Alias
+alias therm="sensors"
